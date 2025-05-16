@@ -1,1 +1,4 @@
 hello
+
+Hi! :)
+Good job, thank you for your work. At the last task: I recommend the 'pass' keyword at the Shape class, but this is also fine. :) 
